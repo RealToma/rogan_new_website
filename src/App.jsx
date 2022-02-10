@@ -8,6 +8,7 @@ import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
+import { Roadmap } from "./components/roadmap";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -80,7 +81,7 @@ const App = () => {
             },
             links: {
               // color: "#495193",
-              color: "#ffffff", 
+              color: "#ffffff",
               distance: 150,
               enable: true,
               opacity: 0.8,
@@ -123,10 +124,12 @@ const App = () => {
       <Features data={landingPageData.Features} />
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
+      <Roadmap />
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
+
     </div>
   );
 };
