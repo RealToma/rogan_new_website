@@ -35,6 +35,11 @@ export const Navigation = (props) => {
           id='bs-example-navbar-collapse-1'
         >
           <ul className='nav navbar-nav navbar-right'>
+          <li>
+              <a href='https://www.dextools.io/app/bsc/pair-explorer/0x94ee98d569bbd651b49bce3c1278d501d139388a' target="_blank" rel="noreferrer" className='page-scroll'>
+                DexTools
+              </a>
+            </li>
             <li>
               <a href='#features' className='page-scroll'>
                 Information
@@ -51,11 +56,26 @@ export const Navigation = (props) => {
               </a>
             </li>
             <li>
-              <a href='#roadmap' className='page-scroll'>
+              <a href='#roadmap' className='page-scroll' >
                 Roadmap
               </a>
             </li>
             <li>
+              <a href='https://bscscan.com/token/0xE42F8Cb4acdE0C81202171a3faF7ED14a33AabeE?a=0x686c626E48bfC5DC98a30a9992897766fed4Abd3'  target="_blank" rel="noreferrer" className='page-scroll'>
+                Contact
+              </a>
+            </li> 
+            <li>
+              <a href='https://twitter.com/rogancoin1' className='page-scroll' target="_blank" rel="noreferrer">
+                Twitter
+              </a>
+            </li>
+            <li>
+              <a href='https://t.me/rogancoin' className='page-scroll' target="_blank" rel="noreferrer">
+                Telegram
+              </a>
+            </li>
+            {/* <li>
               <a href='#portfolio' className='page-scroll'>
                 Brand
               </a>
@@ -69,12 +89,8 @@ export const Navigation = (props) => {
               <a href='#team' className='page-scroll'>
                 Team
               </a>
-            </li>
-            <li>
-              <a href='#contact' className='page-scroll'>
-                Contact
-              </a>
-            </li>
+            </li>*/}
+
           </ul>
         </div>
       </div>

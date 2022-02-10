@@ -55,29 +55,26 @@ export const Roadmap = (props) => {
 }
 const StyledContainer = styled(Box)`
     .cLpDkP::after {
-        background-color: #14F195;
-        width: 2px;
+        background-color: #14F195 !important;
+        width: 2px !important;
     }
     .guaETY.guaETY {
-        border: 2px solid #14F195;
-        background: black;
+        border: 2px solid #14F195 !important;
+        background: black !important;
         &:hover{
-            border: 3px solid #14F195;
-            transition: all 0.3s linear;
+            border: 3px solid #14F195 !important;
+            transition: all 0.3s linear !important;
         }
     }
     .igjtNr.igjtNr {
-        position: relative;
-        background-color: #14F195;
-        padding: 10px;
-        color: #fff;
-        border-radius: 4px;
-        font-weight: 800;
-        font-size: 1.5rem;
+        background-color: #14F195 !important;
+        color: #fff !important;
+        font-weight: 800 !important;
+        font-size: 1.5rem !important;
         &:hover{
             color: #333;
-            background-color: white;
-            transition: all 0.3s linear;
+            background-color: white !important;
+            transition: all 0.3s linear !important;
         }
     }
 
