@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Where Ideas Roam Freely",
+    "paragraph": "The Decentralized Censorship Resistant Content Platform"
+  },
+  "About": {
+    "paragraph": "By leveraging open source technologies such as PeerTube’s content delivery framework and blockchain, we are able to provide a censorship resistant platform. ROGAN has real-time content monetization using Blockchain technology. Our platform does not rely on ads or third parties.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-group",
+      "name": "Decentralized",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Censorship resistant",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "User and creator protection",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Opensource",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Fair",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Free to use",
+      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "HypnoVoice",
+      "job": "Organizer"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "BDL",
+      "job": "Senior Development"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Thomas",
+      "job": "Senior Development"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Vince",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "thomas.k98114@gmail.com",
+    "twitter": "https://twitter.com/rogancoin1",
+    "telegram": "https://t.me/rogancoin",
+    "discord": "https://discord.com/invite/uVBZmZSStS"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Token Name",
+      "text": "Rogan Coin"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Token Price",
+      "text": "$0.0000000009227"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Market Rank",
+      "text": "#3332"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "title": "Market Cap",
+      "text": "$686,550.20"
+    }
+  ]
+}
