@@ -40,11 +40,11 @@ export const Navigation = (props) => {
                 DexTools
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href='#features' className='page-scroll'>
                 Information
               </a>
-            </li>
+            </li> */}
             <li>
               <a href='#about' className='page-scroll'>
                 About

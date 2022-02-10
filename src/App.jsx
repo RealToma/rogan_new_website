@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
+// import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
 // import { Gallery } from "./components/gallery";
@@ -9,6 +9,7 @@ import { Services } from "./components/services";
 // import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
 import { Roadmap } from "./components/roadmap";
+import { Information } from "./components/information";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
@@ -121,13 +122,14 @@ const App = () => {
       />
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      {/* <Features data={landingPageData.Features} /> */}
       <About data={landingPageData.About} />
       <Services data={landingPageData.Services} />
       <Roadmap />
       {/* <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} /> */}
+      <Information />
       <Contact data={landingPageData.Contact} />
 
     </div>
