@@ -4,7 +4,7 @@ import { Header } from "./components/header";
 import { Features } from "./components/features";
 import { About } from "./components/about";
 import { Services } from "./components/services";
-import { Gallery } from "./components/gallery";
+// import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
@@ -102,7 +102,7 @@ const App = () => {
                 enable: true,
                 area: 1000,
               },
-              value: 60,   // count
+              value: 40,   // count
             },
             opacity: {
               value: 0.3,

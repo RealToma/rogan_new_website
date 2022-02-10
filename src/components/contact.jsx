@@ -152,7 +152,7 @@ export const Contact = (props) => {
         <div className='container text-center'>
           <p>
             Copyright @ 2022 Rogan Made by{' '}
-            <a href='https://t.me/thomas0114' rel='nofollow' target="_blank">
+            <a rel='noreferrer' target="_blank" href='https://t.me/thomas0114' >
               Thomas
             </a>
           </p>
