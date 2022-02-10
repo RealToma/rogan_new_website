@@ -25,8 +25,8 @@ export const Roadmap = (props) => {
                             <Box display={"flex"} flexDirection={"column"}>
                                 <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxChecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Project Inception</Box>
                                 <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxChecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Token contract creation and deployment</Box>
-                                <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxUnchecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}1000 holders</Box>
-                                <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxUnchecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Listing on Coingecko</Box>
+                                <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxChecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}1000 holders</Box>
+                                <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxChecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Listing on Coingecko</Box>
                                 <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxUnchecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Marketing and awareness</Box>
                                 <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxUnchecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Rogan Mobile App</Box>
                                 <Box display="flex" flex={"1"} alignItems={"center"} fontSize={"20px"}><ImCheckboxUnchecked color="#14F195" />{'\u00a0'}{'\u00a0'}{'\u00a0'}Listing on a major centralized exchange</Box>
