@@ -597,7 +597,7 @@ label {
 /* Footer Section*/
 #footer {
   background: black;
-  border-top: 2px solid white;
+  /* border-top: 2px solid #14f195; */
   padding: 30px 0;
 }
 #footer p {
