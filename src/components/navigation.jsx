@@ -22,7 +22,7 @@ export const Navigation = (props) => {
           <a className='page-scroll' href='#page-top'>
             <div style={{ display: 'flex', alignItems:'center'}}>
               <div style={{ display: 'flex' }}>
-                <img src={Rogan_mark01} width="50px" height="50px" alt="mark" />
+                <img src={Rogan_mark01} width="50px" height="60px" alt="mark" />
               </div>
               {/* <div style={{ display: 'flex', alignItems: 'center', marginLeft:"10px" }}>
                 <Box color={"white"} fontSize="24px">ROGAN</Box>
