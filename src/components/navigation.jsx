@@ -1,3 +1,7 @@
+// import { Box } from "@material-ui/core";
+import Rogan_mark01 from "../assets/images/rogan/mark01.png";
+
+
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -15,9 +19,15 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
             <span className='icon-bar'></span>{' '}
           </button>
-          <a className='navbar-brand page-scroll' href='#page-top'>
-            ROGAN TOKEN
-          </a>{' '}
+          <a className='page-scroll' href='#page-top'>
+            <div style={{ display: 'flex', alignItems:'center'}}>
+              <div style={{ display: 'flex' }}>
+                <img src={Rogan_mark01} width="50px" height="50px" alt="mark" />
+              </div>
+              {/* <div style={{ display: 'flex', alignItems: 'center', marginLeft:"10px" }}>
+                <Box color={"white"} fontSize="24px">ROGAN</Box>
+              </div> */}
+            </div></a>{' '}
         </div>
 
         <div
