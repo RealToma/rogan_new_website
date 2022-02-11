@@ -4,7 +4,7 @@
     "paragraph": "The Decentralized Censorship Resistant Content Platform"
   },
   "About": {
-    "paragraph": "By leveraging open source technologies such as PeerTube’s content delivery framework and blockchain, we are able to provide a censorship resistant platform. ROGAN has real-time content monetization using Blockchain technology. Our platform does not rely on ads or third parties.",
+    "paragraph": "We provide a censorship resistant decentralized platform for all users and creators.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -69,32 +69,32 @@
     {
       "icon": "fa fa-group",
       "name": "Decentralized",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "Rogan is powered by peer-to-peer technology that can not be stopped."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-eye-slash",
       "name": "Censorship resistant",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "Our platform can not be censored by third parties. And we don’t rely on third parties for funding. "
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-shield",
       "name": "User and creator protection",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "We protect the privacy and the freedom of speech of all of our members. "
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-dropbox",
       "name": "Opensource",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "Rogan is an open-source project that welcomes anyone to inspect or cooperate on."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-mortar-board",
       "name": "Fair",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "Rogan does not take sides or discriminate. Only the users have the ability to take down things that are illegal or life threatening. "
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-child",
       "name": "Free to use",
-      "text": "Rogan is the fastest blockchain in the world and the fastest growing ecosystem in crypto, with thousands of projects spanning DeFi, NFTs, Web3 and more."
+      "text": "Rogan is free to use and Ad free, we use to power of blockchain to fund ourselves. This how we stay independent. "
     }
   ],
   "Testimonials": [

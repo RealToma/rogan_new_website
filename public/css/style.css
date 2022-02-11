@@ -274,6 +274,7 @@ header .intro-text {
 #about h2 {
   position: relative;
   margin-bottom: 15px;
+  margin-top: 50px;
   padding-bottom: 15px;
 }
 #about h2::after {

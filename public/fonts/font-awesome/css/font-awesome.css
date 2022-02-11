@@ -767,6 +767,9 @@
 .fa-caret-left:before {
   content: "\f0d9";
 }
+.fa-balance-scale:before{
+  content:"\fe42";
+}	
 .fa-caret-right:before {
   content: "\f0da";
 }

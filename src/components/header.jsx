@@ -15,10 +15,9 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : 'Loading'}</p>
                 <a
-                  href='#features'
-                  className='btn btn-custom btn-lg page-scroll'
+                  href='https://discord.com/invite/uVBZmZSStS' target="_blank" rel="noreferrer" className='btn btn-custom btn-lg page-scroll'
                 >
-                  Learn More
+                  Join Us
                 </a>{' '}
               </div>
             </div>
