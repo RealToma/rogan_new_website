@@ -62,7 +62,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='https://bscscan.com/token/0xE42F8Cb4acdE0C81202171a3faF7ED14a33AabeE?a=0x686c626E48bfC5DC98a30a9992897766fed4Abd3'  target="_blank" rel="noreferrer" className='page-scroll'>
-                Contact
+                Contract
               </a>
             </li> 
             <li>
