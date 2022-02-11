@@ -1,7 +1,5 @@
 // import { Box } from "@material-ui/core";
 import Rogan_mark01 from "../assets/images/rogan/mark01.png";
-
-
 export const Navigation = (props) => {
   return (
     <nav id='menu' className='navbar navbar-default navbar-fixed-top'>
@@ -75,9 +73,14 @@ export const Navigation = (props) => {
                 Telegram
               </a>
             </li>
+            <li>
+              <a display="flex" href="https://files.secure.website/wscfus/10684517/29826499/rogan.pdf" className='page-scroll' target="_blank" rel="noreferrer">
+                Litepaper
+              </a>
+            </li>
             {/* <li>
               <a href='#portfolio' className='page-scroll'>
-                Brand
+                Brandy
               </a>
             </li>
             <li>
